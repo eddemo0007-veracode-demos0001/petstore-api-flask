@@ -84,4 +84,4 @@ swagger*.json
 .local
 
 # If you have any text files that are not needed in the repository, ignore them
-*.txt
+# *.txt
